@@ -36,5 +36,5 @@ This repository contains a system for filtering and rating CVs based on job desc
 
 **Screenshots:**
 
-<img alt="Chatbot ScreenShot" src="https://raw.githubusercontent.com/MuhammadAhmadBajwa/Resume-Ranker/main/images/screenshoot1.png">
-<img alt="Chatbot ScreenShot" src="https://raw.githubusercontent.com/MuhammadAhmadBajwa/Resume-Ranker/main/images/screenshoot2.png">
+<img alt="Chatbot ScreenShot" src="https://raw.githubusercontent.com/MuhammadAhmadBajwa/Resume-Ranker/main/images/screenshot1.png">
+<img alt="Chatbot ScreenShot" src="https://raw.githubusercontent.com/MuhammadAhmadBajwa/Resume-Ranker/main/images/screenshot2.png">
