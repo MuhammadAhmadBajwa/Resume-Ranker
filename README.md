@@ -35,5 +35,5 @@ This repository contains a system for filtering and rating CVs based on job desc
    - Go to the generated link
 
 **Screenshots:**
-
+<img alt="Chatboot ScreenShot" src="https://raw.githubusercontent.com/Resume-Ranker/main/images/screenshot1.png">
 
